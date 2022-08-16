@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(255, 252, 252);
+  }
+  #form{
+   border-style: dashed;
+   border-color: beige;
+   width: 80%;
+   margin-left:  2%;;
+   margin-right: 4px;
+   padding-right: 4px;
+   padding: 0px;
+   background-color: rgb(225, 248, 248);
+   border-radius: 5%;
+  
+  }
+  
+  label,button{
+    display:block;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #description{
+    text-align: center;
+    font-size: 30px;;
+  }
+  
+  
+  #gender{
+    display: inline-block;
+    margin-left: 40px;
+  
+  }
+  button{
+    margin:auto;
+    margin-top: 15px;
+    border-radius: 10% 30%;
+    height:40px;
+    background-color: rgb(255, 255, 255);
+    width:100px;
+    margin-bottom: 20px;
+  
+    
+  }
+  button:hover{
+    background-color: rgb(189, 189, 189);
+  }
+  
+  select{
+    margin-left: 50px;
+  }
+  
+  table{
+    margin-top:300px;
+    margin-left: 0px;
+    margin-top: 60px;  
+    border-collapse: collapse;
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 239, 239);
+    border-radius: 5px;
+    
+    
+    
+  
+  }
+  
+  tr,td,th{
+    border:2px solid rgba(0, 0, 0, 0.856);
+    padding:5px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+  
+  }
+  option{
+    font-size: 16px;
+  }
+  span{
+    font-size: 16px;;
+  }
+  
+  caption{
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
